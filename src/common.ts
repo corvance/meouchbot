@@ -1,6 +1,6 @@
 import { Client, GuildEmoji, MessageEmbed } from "discord.js";
 
-export const BOT_COLOR: number = 0xf30a2d;
+export const BOT_COLOR: number = 0x1647c7;
 export const ERROR_EMBED: MessageEmbed = new MessageEmbed({
     color: BOT_COLOR,
     title: 'Action Failed',
